@@ -1,2 +1,3 @@
-# core-file-sharing-kl46
-Automated issue comment bot repository
+# Core File Sharing Kl46
+
+Automated issue comment bot repository.
